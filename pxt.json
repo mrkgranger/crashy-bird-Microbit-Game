@@ -1,5 +1,5 @@
 {
-    "name": "crashy-bird",
+    "name": "crashy-bird-led-game",
     "description": "",
     "dependencies": {
         "core": "*",
